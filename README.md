@@ -1,2 +1,8 @@
-# jolitesfb
-An Alternate version of Jolites social networking platform, trying to make it as close to functionality as fb as possible. 
+Jolites
+========
+
+Social Networking Site of Jalpaiguri Government Engineering College
+--------------------------------------------------------------------
+
+
+Feel free to fork and contribute to the code. Has been made in laravel. Happy Coding. :)

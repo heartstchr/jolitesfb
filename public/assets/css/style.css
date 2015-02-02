@@ -1,0 +1,209 @@
+body,.container-fluid{
+    background-color: #edf0f5!important;
+}
+.friend-request,.messages,.notifications,.settings{
+    font-size: 30px;
+    color: #2f477a;
+    text-shadow: 1px 1px 1px #000000;
+}
+.friend-request:hover,.messages:hover,.notifications:hover,.settings:hover{
+    font-size: 30px;
+    color: #23355b;
+}
+.notification.badge-danger{
+    position: absolute;
+    top: 20px;
+    left: 18px;
+}
+.invite td{
+    width: 10%;
+}
+.welcome{
+    margin-top: 100px;
+}
+.top-nav{
+    position: fixed;
+    z-index: 99999;
+}
+.content{
+    position: inherit;
+}
+input.search{
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+.row-fix{
+    padding: 5px!important;
+}
+.logo-icon{
+    width: 38px;
+    padding: 5px!important;
+}
+.logo-icon img{
+    width: 100%;
+}
+.signup_response{
+    margin-top: 5%;
+    padding: 0px!important;
+    border: 1px solid #e5e5e5;
+}
+.signup_response .body{
+    padding: 40px;
+    color: #797979;
+    background-color: #ffffff;
+    border-bottom: 10px solid #3B5998;
+}
+.signup_response .title{
+    background-color: #3B5998;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 0px 5px 10px;
+}
+.sign-up input{
+    border-radius: 4px;
+    font-size: 20px;
+    border-color: #bdc7d8;
+}
+.sign-up input:hover{
+    border-radius: 4px;
+    font-size: 20px;
+    border-color: #bdc7d8;
+}
+.sign-up input:focus{
+    border-radius: 4px;
+    font-size: 20px;
+    border-color: #bdc7d8;
+    background-color: #ffffff;
+}
+.header{
+    padding: 10px 20px;
+}
+.header .logo{
+    width: 200px;
+}
+.logo img{
+    width:100%;
+    /*background-color: #edf0f5!important;*/
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.header.bg-primary{
+    background-color: #3B5998!important;
+}
+.login{
+    margin-top: 22px;
+}
+.checkbox{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.link{
+    color: #98a9ca;
+}
+a.link:hover{
+    color: #98a9ca;
+}
+.no-margin-bottom{
+    margin-bottom: 0px!important;
+}
+.no-padding{
+    padding: 0px!important;
+    margin: 5px 0px;
+}
+.first_name{
+    padding-right: 5px!important;
+}
+.last_name{
+    padding-left: 5px!important;
+}
+.sign-up-left{
+    padding: 0px 5%!important;
+}
+.sign-up-right{
+    padding: 0% 10% 0% 0%!important;
+}
+.sign-up-left>h2{
+    padding: 20px 0px;
+}
+.bold{
+    font-weight: bold;
+}
+.color{
+    color: #333;
+}
+.tip{
+    font-size: 18px;
+    padding: 20px 0px;
+    color:#666;
+}
+.tip>span{
+    font-weight: bold;
+}
+.sign-up-right>h4{
+    font-weight: normal;
+}
+.btn-custom{
+    border-color:#bdc7d8;
+    color: #999;
+    background-color:#ffffff;
+}
+.bootstrap-select.no-padding{
+    margin-top: -5px;
+    margin-bottom: -7px!important;
+}
+.radio h4{
+    margin-top: -20px;
+}
+.btn.sign-up{
+    padding: 5px 50px 10px 50px;
+    font-size: 19px;
+}
+
+.btn-image .text{
+    padding-right: 10px;
+    line-height: 25px;
+}
+.btn-image .home{
+    line-height: 25px;
+    padding: 0px 5px;
+}
+
+.btn-image{
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 2px 0px 2px 2px;
+
+}
+
+.btn-image:hover{
+    color: #fff;
+    background-color:rgba(0, 0, 0, .1);
+}
+
+.btn-image img{
+    border-radius: 4px;
+}
+
+.post_profile_picture{
+    border: 1px solid #ccc;
+}
+.comments_group{
+    margin-top: 10px;
+}
+.comment_profile_pic{
+    border:0px;
+    padding: 0px 10px 0px 0px;
+}
+.timeline-profile-picture{
+    background-color: #fff;
+    max-width: 100px;
+    max-height: 100px;
+}
+.float-right{
+    float:right;
+}
+.modal-dialog{
+    margin-top: 100px;
+}
