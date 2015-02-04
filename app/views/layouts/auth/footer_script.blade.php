@@ -1,6 +1,5 @@
 
 
-
 <!-- Global -->
 <script data-id="App.Config">
     var App = {};	var basePath = '',

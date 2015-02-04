@@ -21,14 +21,14 @@
 </div>
 @else
 <div class="hidden-xs hidden-sm col-md-6 sign-up-left">
-    <h2 class="bold color">Connect with friends and the world around you on PhaseBook.</h2>
+    <h2 class="bold color">Connect with other jolites around you.</h2>
     <p class="tip"><span class="color"><i class="fa fa-image"></i> See photos and updates</span> from friends in News Feed.</p>
     <p class="tip"><span class="color"><i class="fa fa-share-square-o"></i> Share what's new</span> in your life on your timeline</p>
     <p class="tip"><span class="color"><i class="fa fa-cog"></i> Configure your Profile</span> to get connected with similar people</p>
 </div>
 <div class="col-xs-12 col-md-6 sign-up-right">
     <h1 class="color">Sign Up!</h1>
-    <h4 class="color">It’s free and always will be.</h4>
+    <h4 class="color">Exclusively for jolites.</h4>
     {{ Form::open(array('class' => 'sign-up', 'method' => 'post', 'route' => 'register')) }}
     <div class="col-md-6 col-xs-12 no-padding first_name">
         <input type="text" class="form-control" name="first_name" placeholder="First name" required>
